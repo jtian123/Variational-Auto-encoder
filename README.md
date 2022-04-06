@@ -10,4 +10,4 @@ Main jobs:
   
   • Improved VAE model by fine tuning hyper-parameters based on Structural Image Similarity Score (SSIM) and Peak signal- to-noise ratio (PSNR) criteria.
   
-  • Analyzed DVAE model with truncated principal components analysis and fourier low-pass filter, achieved 20% image de- noising efficiency by VAE.
+  • Achieved 20\% image denoising efficiency by DVAE model with truncated principal components analysis, compared with Fourier low-pass filter analysis.
